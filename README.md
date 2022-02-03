@@ -33,9 +33,10 @@ To the final dense layer :
 
 ![image](https://user-images.githubusercontent.com/60283852/152285585-43aa2cc3-94aa-4c01-90a7-c597f8cf8e63.png)
 
-=============================================================================================
+============================================================================================
 The final accuracy obtained is 92%.
 
 The results for the same dataset in different circumstances :
 
-![image](https://user-images.githubusercontent.com/60283852/152285440-eee33895-e737-4b78-a164-4edb07c217b3.png)
+![image](https://user-images.githubusercontent.com/60283852/152285878-56c1337e-6f51-4a91-960c-9587c60af244.png)
+
