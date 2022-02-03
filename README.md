@@ -16,14 +16,14 @@ After data augmentation, the dataset split is :
  - Abnormal = 2660 Images
  - Normal = 2575 Images
 
-============================================================================================================================
+============================================================================================
 Steps to completely classify PCG signals :
 1. Read the input .wav files and convert them to images using spectograms.
 2. Using the spectograms as images, build a CNN architecture to classify these images.
 3. Train the CNN model and classify the test data.
 
-============================================================================================================================
-** CNN Architecture 
+============================================================================================
+## CNN Architecture :
 
 Starting from the input layer :
 ![image](https://user-images.githubusercontent.com/60283852/152285565-9b287e44-6d2c-453a-9852-6b8837b221c0.png)
