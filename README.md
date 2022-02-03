@@ -26,12 +26,14 @@ Steps to completely classify PCG signals :
 ## CNN Architecture :
 
 Starting from the input layer :
+
 ![image](https://user-images.githubusercontent.com/60283852/152285565-9b287e44-6d2c-453a-9852-6b8837b221c0.png)
 
 To the final dense layer :
+
 ![image](https://user-images.githubusercontent.com/60283852/152285585-43aa2cc3-94aa-4c01-90a7-c597f8cf8e63.png)
 
-============================================================================================================================
+=============================================================================================
 The final accuracy obtained is 92%.
 
 The results for the same dataset in different circumstances :
